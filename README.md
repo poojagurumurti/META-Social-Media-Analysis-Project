@@ -5,10 +5,8 @@ Evaluate Instagram user data to develop targeted marketing strategies that enhan
 
 ---
 ### **Analysis** 🔍  
-- **User Engagement & Activity Distribution**:  
-   Analyzed user engagement and activity, categorized users into **high**, **moderate**, and **low** engagement segments.  
-- **User Base Analysis**:  
-   Analyzed the user base, consisting of **65% old** and **35% new** users, to optimize content strategy for both **established** and **newer audiences**.
+- **User Engagement & Activity Distribution**: Analyzed user engagement and activity, categorized users into **high**, **moderate**, and **low** engagement segments.  
+- **User Base Analysis**: Analyzed the user base, consisting of **65% old** and **35% new** users, to optimize content strategy for both **established** and **newer audiences**.
 
 ---
 ### **Key Insights** 💡  
